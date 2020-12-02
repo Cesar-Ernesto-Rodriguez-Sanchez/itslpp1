@@ -12,6 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
+
                 background-color: #fff;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
@@ -64,6 +65,7 @@
         </style>
     </head>
     <body>
+        <h1>Cesar Ernesto Rodriguez Sanchez</h1>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
